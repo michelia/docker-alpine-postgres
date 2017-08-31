@@ -8,4 +8,4 @@
 
 ### 参考
 - https://github.com/docker-library/docs/tree/master/postgre
-- iliwei.me/2016/12/13/alpine-time-zone/
+- http://iliwei.me/2016/12/13/alpine-time-zone/
